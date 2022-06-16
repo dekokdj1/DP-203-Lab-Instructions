@@ -510,4 +510,3 @@ In addition to the sales data, Tailwind Traders has customer profile data from a
 
     ![The query output is displayed.](images/spark-grouped-top-purchases-total-items.png "Grouped top total items output")
 
-11. Keep the notebook open for the next exercise.
